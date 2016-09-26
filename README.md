@@ -1,4 +1,4 @@
-# Expenditure Weights Calculator 
+# Expenditure Weights Calculator beta 0
 
 Team: Karoline Akemi Sato (Project leader) 
       Matheus Macedo Lopes
